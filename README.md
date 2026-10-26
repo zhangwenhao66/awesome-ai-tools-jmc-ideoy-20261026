@@ -104,7 +104,7 @@ Face swap, deepfake, and face animation tools.
 - **[LivePortrait](https://github.com/KwaiVGI/LivePortrait)** - Bring portraits to life! ![Stars](https://img.shields.io/github/stars/KwaiVGI/LivePortrait?style=flat-square)
 - **[deepface](https://github.com/serengil/deepface)** - Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion, Race). ![Stars](https://img.shields.io/github/stars/serengil/deepface?style=flat-square)
 - **[hallo](https://github.com/fudan-generative-vision/hallo)** - Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation. ![Stars](https://img.shields.io/github/stars/fudan-generative-vision/hallo?style=flat-square)
-
+- [Ideoy](https://ideoy.ai) - Remake this week's memes with one selfie (AI image-to-video, freemium, adults only, AI-labeled).
 ## Video Generation
 
 Text-to-video and image-to-video generation.
